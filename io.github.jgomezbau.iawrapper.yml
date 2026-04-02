@@ -62,4 +62,3 @@ modules:
         sha256: 4733cfd12e9812e2f780406eac40fcaf98c5d736f40018b3698041e5c58bfefe
         dest: electron-dist
         strip-components: 0
-      - generated-sources.json
